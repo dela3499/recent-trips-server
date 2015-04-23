@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="c1_context.svg"
+   inkscape:export-filename="/home/carlos/projects/graphics/finity/docs/architecture/c1_context.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="495.45098"
+     inkscape:cy="525.67916"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:connector-spacing="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="854"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect4481-5"
+       width="53341.047"
+       height="31540.182"
+       x="-25708.338"
+       y="-13783.668"
+       ry="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4481"
+       width="1000"
+       height="1000"
+       x="2.0203052"
+       y="52.362183"
+       ry="0" />
+    <g
+       transform="matrix(1,0,0,-1,-29.776601,1104.4293)"
+       id="g3551-6">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path3057-5-0"
+         d="m 589.66508,447.44322 0,263.00448"
+         style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:1.04284406px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:type="star"
+         style="fill:#969696;fill-opacity:1;stroke:none"
+         id="path4185-2-1-3-8"
+         sodipodi:sides="3"
+         sodipodi:cx="-230"
+         sodipodi:cy="57.142857"
+         sodipodi:r1="41.42857"
+         sodipodi:r2="20.714287"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.8325957"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M -200.70558,86.437279 -270.01693,67.86536 -219.2775,17.125931 z"
+         transform="matrix(-0.29352634,-0.2831108,0.2831108,-0.29352634,505.8237,401.51096)"
+         inkscape:transform-center-x="-0.15255292"
+         inkscape:transform-center-y="-4.090938" />
+    </g>
+    <rect
+       style="fill:#969696;fill-opacity:1;stroke:none"
+       id="rect2985-9"
+       width="229.3015"
+       height="141.71611"
+       x="385.34924"
+       y="289.72711"
+       ry="10.808129" />
+    <g
+       id="g3551">
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path3057-5"
+         d="m 589.66508,447.44322 0,263.00448"
+         style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:1.04284406px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:type="star"
+         style="fill:#969696;fill-opacity:1;stroke:none"
+         id="path4185-2-1-3"
+         sodipodi:sides="3"
+         sodipodi:cx="-230"
+         sodipodi:cy="57.142857"
+         sodipodi:r1="41.42857"
+         sodipodi:r2="20.714287"
+         sodipodi:arg1="0.78539816"
+         sodipodi:arg2="1.8325957"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M -200.70558,86.437279 -270.01693,67.86536 -219.2775,17.125931 z"
+         transform="matrix(-0.29352634,-0.2831108,0.2831108,-0.29352634,505.8237,401.51096)"
+         inkscape:transform-center-x="-0.15255292"
+         inkscape:transform-center-y="-4.090938" />
+    </g>
+    <rect
+       style="fill:#00195e;fill-opacity:1;stroke:none"
+       id="rect2985-8-3"
+       width="229.3015"
+       height="141.71611"
+       x="385.34924"
+       y="673.28113"
+       ry="10.808129" />
+    <g
+       id="g3942"
+       transform="translate(178.57143,436.79443)">
+      <rect
+         ry="8.6302118"
+         y="-85.089203"
+         x="224.64285"
+         height="65"
+         width="193.57143"
+         id="rect3904-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-2"
+         y="-100.94173"
+         x="254.03731"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="-100.94173"
+           x="254.03731"
+           id="tspan3858-1"
+           sodipodi:role="line">- software system -</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-6-3"
+         y="-118.1293"
+         x="292.96405"
+         style="font-size:20.14882088px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="-118.1293"
+           x="292.96405"
+           id="tspan3858-8-9"
+           sodipodi:role="line">Client</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-7-8"
+         y="-56.564201"
+         x="321.31607"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="-56.564201"
+           x="321.31607"
+           sodipodi:role="line"
+           id="tspan3960">Web dashboard or</tspan><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="-37.814201"
+           x="321.31607"
+           sodipodi:role="line"
+           id="tspan3424">mobile app</tspan></text>
+    </g>
+    <g
+       id="g4279"
+       transform="translate(0,190.4884)">
+      <rect
+         ry="8.6302118"
+         y="544.97083"
+         x="403.21429"
+         height="65"
+         width="193.57143"
+         id="rect3904-9-6-65-1"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-2-1-1-7"
+         y="529.11829"
+         x="432.60876"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="529.11829"
+           x="432.60876"
+           id="tspan3858-1-4-2-9"
+           sodipodi:role="line">- software system -</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-6-3-5-1-2"
+         y="511.93073"
+         x="468.60858"
+         style="font-size:20.14882088px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="511.93073"
+           x="468.60858"
+           id="tspan3858-8-9-5-4-2"
+           sodipodi:role="line">Server</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-7-8-7-3-1"
+         y="571.89832"
+         x="500.30786"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="571.89832"
+           x="502.22681"
+           sodipodi:role="line"
+           id="tspan4183">Backend services and </tspan><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="590.64832"
+           x="500.30786"
+           sodipodi:role="line"
+           id="tspan3428">data stores</tspan></text>
+    </g>
+    <g
+       transform="translate(-1.665075,0)"
+       id="g3495">
+      <g
+         id="g3430">
+        <path
+           style="fill:#969696;fill-opacity:1;stroke:#000000;stroke-width:0.96391779px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 411.99999,431.44322 0,224.70067"
+           id="path3057"
+           inkscape:connector-type="polyline"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:transform-center-y="4.0909422"
+           inkscape:transform-center-x="-0.15255292"
+           transform="matrix(-0.29352634,0.2831108,0.2831108,0.29352634,328.15861,702.91833)"
+           d="M -200.70558,86.437279 -270.01693,67.86536 -219.2775,17.125931 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="true"
+           sodipodi:arg2="1.8325957"
+           sodipodi:arg1="0.78539816"
+           sodipodi:r2="20.714287"
+           sodipodi:r1="41.42857"
+           sodipodi:cy="57.142857"
+           sodipodi:cx="-230"
+           sodipodi:sides="3"
+           id="path4185-2-1"
+           style="fill:#969696;fill-opacity:1;stroke:none"
+           sodipodi:type="star" />
+      </g>
+      <g
+         transform="translate(-87.99999,184.81401)"
+         id="g4403">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect3904-3-1"
+           width="193.57143"
+           height="65"
+           x="403.21426"
+           y="308.71478"
+           ry="8.6302118" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+           x="499.79617"
+           y="335.71729"
+           id="text3856-7-2-0"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="499.79617"
+             y="335.71729"
+             style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+             id="tspan4335-1">Upload trip data</tspan><tspan
+             sodipodi:role="line"
+             x="499.79617"
+             y="354.46729"
+             style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+             id="tspan3547">upon completion</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4403-5"
+       transform="translate(75.6651,184.81401)">
+      <rect
+         ry="8.6302118"
+         y="308.71478"
+         x="403.21426"
+         height="65"
+         width="193.57143"
+         id="rect3904-3-1-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3856-7-2-0-9"
+         y="335.71729"
+         x="499.79617"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway"
+         xml:space="preserve"><tspan
+           id="tspan4335-1-6"
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="335.71729"
+           x="499.79617"
+           sodipodi:role="line">Request last N trips</tspan><tspan
+           style="font-size:15px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Raleway;-inkscape-font-specification:Raleway"
+           y="354.46729"
+           x="499.79617"
+           sodipodi:role="line"
+           id="tspan3549">to show in app</tspan></text>
+    </g>
+  </g>
+</svg>
