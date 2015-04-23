@@ -16,8 +16,12 @@ def add_trip(user_id, trip_data, trip_start_timestamp, size_limit = 10):
 	r.zadd(user_id, trip_start_timestamp, trip_data)
 	trim_to_highest(user_id, size_limit)
 
-n_users = 100
-n_trips = 1000
+def get_trips(user_id):
+	"""Return trip_data for user."""
+	return r.zrange(user_id,0,-1)
+
+n_users = 10
+n_trips = 100
 
 user_ids = [str(int(xi * 10000)) for xi in npr.random(n_users)]
 #print user_ids
@@ -28,6 +32,9 @@ trip_start_times = [int(xi) for xi in npr.random(n_trips)]
 for user_id, trip_data, trip_start_time in zip(trip_user_ids, trip_datas, trip_start_times):
 	add_trip(user_id, trip_data, trip_start_time)
 
-for user_id in user_ids[:10]:
-	#p(user_id)
-	print r.zcard(user_id)
+# for user_id in user_ids[:10]:
+# 	#p(user_id)
+# 	print r.zcard(user_id)
+
+for user_id in user_ids:
+	print get_trips(user_id)	
